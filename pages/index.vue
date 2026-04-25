@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h1>Welcome to my App</h1>
-    <p>This is the home page.</p>
+    <p>This is the home page..</p>
     <img src="/images/picture.jpg" alt="Picture">
   </div>
 </template>
